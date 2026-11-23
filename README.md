@@ -78,7 +78,9 @@
 
 إذا عجبتك الترجمة، اترك تعليق بسيط في حساباتي، يدعمني كثير 🤍
 
-**YouTube:** @D7omza &nbsp;|&nbsp; **TikTok:** @D7omza
+[YouTube](https://www.youtube.com/@D7omza) · [TikTok](https://www.tiktok.com/@D7omza) · [Instagram](https://www.instagram.com/D7omza) · [Facebook](https://www.facebook.com/D7omza) · [Threads](https://www.threads.net/@D7omza)
+
+كلها باسم **D7omza**
 
 </div>
 
@@ -91,3 +93,4 @@ Arabic translation for **ROB RUN** by **D7omza**. It runs as a transparent scree
 **Install:** download the zip from [Releases](../../releases/latest), set the game to Borderless/Windowed, run `RobRunAR.exe` (it launches the game through Steam). Requires Windows 10/11 with the *English (United States)* language installed for OCR.
 
 ROB RUN is a trademark of its respective owners. This is an unofficial fan translation.
+
