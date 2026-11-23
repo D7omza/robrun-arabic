@@ -14,6 +14,8 @@
 
 <div dir="rtl">
 
+![شاشة البداية: الترجمة بواسطة D7omza](images/main-menu-ar.jpg)
+
 <p align="center">
 <img src="images/before-after.jpg" width="24%" alt="لوتي باي قبل وبعد">
 <img src="images/before-after-menu.jpg" width="23%" alt="القائمة قبل وبعد">
@@ -33,6 +35,8 @@
 - تقدر توقفه أو تخفيه بضغطة زر.
 
 ## التحميل والتشغيل
+
+<p align="center"><img src="images/how-to-run.jpg" alt="طريقة التشغيل" width="420"></p>
 
 1. حمّل ملف `RobRun-Arabic-D7omza` (zip) من **[صفحة الإصدارات](../../releases/latest)** وفك الضغط.
 2. في إعدادات اللعبة خلّ وضع العرض **Borderless** أو **Windowed**.
