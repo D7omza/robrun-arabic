@@ -66,7 +66,7 @@
 هذا طبيعي، البرنامج يقرأ الشاشة أول ثم يترجم.
 
 **بعض النصوص تظل إنجليزي**
-الأسماء فوق اللاعبين والنصوص داخل عالم اللعبة تُترك عمداً. إذا لقيت نص في قائمة ما انترجم، علّق لي وأضيفه في التحديث الجاي.
+الأسماء فوق اللاعبين والنصوص داخل عالم اللعبة تُترك عمداً. إذا لقيت نص في قائمة ما اترجم، علّق لي وأضيفه في التحديث الجاي.
 
 ## المتطلبات
 
@@ -93,4 +93,3 @@ Arabic translation for **ROB RUN** by **D7omza**. It runs as a transparent scree
 **Install:** download the zip from [Releases](../../releases/latest), set the game to Borderless/Windowed, run `RobRunAR.exe` (it launches the game through Steam). Requires Windows 10/11 with the *English (United States)* language installed for OCR.
 
 ROB RUN is a trademark of its respective owners. This is an unofficial fan translation.
-
